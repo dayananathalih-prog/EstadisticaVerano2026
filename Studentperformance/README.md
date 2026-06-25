@@ -1,59 +1,59 @@
-# About Dataset
+# Acerca del Conjunto de Datos
 
-## Description
+## Descripción
 
-The **Student Performance Dataset** is a dataset designed to examine the factors influencing academic student performance. The dataset consists of **10,000 student records**, with each record containing information about various predictors and a performance index.
+El **Conjunto de Datos de Rendimiento Estudiantil** está diseñado para analizar los factores que influyen en el desempeño académico de los estudiantes. El conjunto de datos contiene **10,000 registros de estudiantes**, donde cada registro incluye información sobre diversas variables predictoras y un índice de rendimiento.
 
 ## Variables
 
-### Hours Studied
+### Horas de Estudio
 
-The total number of hours spent studying by each student.
+Cantidad total de horas que cada estudiante dedica al estudio.
 
-### Previous Scores
+### Calificaciones Previas
 
-The scores obtained by students in previous tests.
+Puntajes obtenidos por los estudiantes en evaluaciones anteriores.
 
-### Extracurricular Activities
+### Actividades Extracurriculares
 
-Whether the student participates in extracurricular activities (**Yes** or **No**).
+Indica si el estudiante participa en actividades extracurriculares (**Sí** o **No**).
 
-### Sleep Hours
+### Horas de Sueño
 
-The average number of hours of sleep the student had per day.
+Promedio de horas de sueño que el estudiante tiene por día.
 
-### Sample Question Papers Practiced
+### Exámenes de Práctica Realizados
 
-The number of sample question papers the student practiced.
+Número de exámenes o cuestionarios de práctica que el estudiante ha resuelto.
 
-## Target Variable
+## Variable Objetivo
 
-### Performance Index
+### Índice de Rendimiento
 
-A measure of the overall performance of each student. The performance index represents the student's academic performance and has been rounded to the nearest integer.
+Es una medida del desempeño general de cada estudiante. El índice representa el rendimiento académico y ha sido redondeado al número entero más cercano.
 
-- Range: **10 to 100**
+- **Rango:** 10 a 100
 
-- Higher values indicate **better performance**
+- Los valores más altos indican un **mejor rendimiento académico**.
 
-## Purpose
+## Propósito
 
-The dataset aims to provide insights into the relationship between the predictor variables and the performance index. Researchers and data analysts can use this dataset to explore the impact of:
+Este conjunto de datos busca proporcionar información sobre la relación entre las variables predictoras y el índice de rendimiento. Investigadores y analistas de datos pueden utilizarlo para explorar el impacto de:
 
-- Hours studied
+- Las horas de estudio.
 
-- Previous scores
+- Las calificaciones previas.
 
-- Extracurricular activities
+- La participación en actividades extracurriculares.
 
-- Sleep hours
+- Las horas de sueño.
 
-- Sample question papers practiced
+- La práctica con exámenes de muestra.
 
-on student performance.
+sobre el desempeño académico de los estudiantes.
 
-> **Note:** This dataset is synthetic and created for illustrative purposes. The relationships between the variables and the performance index may not reflect real-world scenarios.
+> **Nota:** Este conjunto de datos es sintético y fue creado con fines ilustrativos. Las relaciones entre las variables y el índice de rendimiento pueden no reflejar situaciones reales.
 
-## License
+## Licencia
 
-Anyone is free to share and use the data.
+Cualquier persona es libre de compartir y utilizar estos datos.
